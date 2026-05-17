@@ -6,8 +6,8 @@ Features:
 - ReLU hidden activation
 - Softmax output layer
 - Cross entropy loss
-- backpropagation
-- feature normalization
+- Backpropagation
+- Feature normalization
 - Iris classification
 
 # Architecture:
@@ -34,7 +34,7 @@ After training, the network predicts the Iris flower class with the highest prob
 
 # Example Output:
 
-
+```txt
 Epoch 0 Loss: 1.13686  
 Epoch 500 Loss: 0.308032  
 Epoch 1000 Loss: 0.10051  
@@ -49,14 +49,16 @@ versicolor
 1.1422e-08 0.00331291 0.996687  
 virginica  
 4.05229e-05 0.244594 0.755365  
-virginica  
+virginica
+```
 
 # Concepts Implemented:
-- forward pass
-- backpropagation
+- Forward pass
+- Backpropagation
 - ReLU
-- softmax
-- cross entropy loss
-- multiclass classification
+- Softmax
+- Cross entropy loss
+- Multiclass classification
+- Gradient descent
 
 This project was built for learning purposes to understand neural networks internally before using prebuilt libraries.
