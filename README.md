@@ -1,1 +1,1 @@
-# Simple-Neural-Network-Using-C-
+# Simple Neural Network Using C++
