@@ -2,7 +2,7 @@
 
 This project is a multiclass neural network implemented completely from scratch in C++ using only the standard library.
 
-Features:
+# Features:
 - ReLU hidden activation
 - Softmax output layer
 - Cross entropy loss
